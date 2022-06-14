@@ -1,3 +1,5 @@
+'use strict';
+
 const express = require('express')
 const port = 12306
 const helper = require('./helper')

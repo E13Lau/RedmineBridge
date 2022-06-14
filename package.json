@@ -1,4 +1,12 @@
 {
+  "name": "RedmineBridge",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "e13lau",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
